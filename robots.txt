@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://roatefe.github.io/sitemap.html.gz
+Sitemap: https://roatefe.github.io/app/sitemap.html.gz
+Sitemap: https://roatefe.github.io/assets/sitemap.html.gz
+Sitemap: https://roatefe.github.io/css/sitemap.html.gz
+Sitemap: https://roatefe.github.io/data/sitemap.html.gz
+Sitemap: https://roatefe.github.io/includes/sitemap.html.gz
+Sitemap: https://roatefe.github.io/item/sitemap.html.gz
+Sitemap: https://roatefe.github.io/src/sitemap.html.gz
